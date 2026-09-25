@@ -84,95 +84,12 @@ I learn primarily by building real projects, experimenting with new technologies
 
 # Featured Projects
 
-## Recipe Book
-
-A social recipe-sharing Android application built with Java and Firebase, allowing users to discover, create, edit, and manage recipes.
-
-### Key Features
-
-- User registration and authentication
-- Persistent login using SharedPreferences
-- Google Sign-In integration
-- Recipe categories with dynamic navigation
-- Create, edit, and delete recipes
-- Personal recipe management
-- Search across recipe categories
-- User profiles
-- Recipe images using Cloudinary
-- YouTube recipe links
-- Firestore-based data management
-- RecyclerView-based ingredient and instruction lists
-- Dynamic category tabs using ViewPager2 and TabLayoutMediator
-
-### Tech Stack
-
-`Java` `Android` `Firebase Authentication` `Cloud Firestore` `Cloudinary` `Picasso` `RecyclerView` `ViewPager2` `SharedPreferences`
-
-<p>
-  <a href="https://github.com/hala-dalloul/Recipe-Book-App">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
-  </a>
-</p>
-
----
-
-## New Salon
-
-An Android salon booking application built with Kotlin and Jetpack Compose, designed with a structured architecture for browsing and managing salon services.
-
-### Key Features
-
-- Modern Jetpack Compose interface
-- Salon service browsing
-- Booking flow
-- Navigation between application screens
-- State management with StateFlow
-- MVVM architecture
-- Repository Pattern
-- Local fake data layer
-- Reusable Compose components
-- Grid-based service presentation
-- ViewModel-based screen state management
-
-### Architecture & Technologies
-
-`Kotlin` `Jetpack Compose` `MVVM` `Repository Pattern` `StateFlow` `Navigation Compose` `ViewModel` `Gradle`
-
-<p>
-  <a href="https://github.com/hala-dalloul/New-Salon">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
-  </a>
-</p>
-
----
-
-## IT Club Platform
-
-A full-stack web platform for an IT Club, combining a public-facing website with an administration dashboard for managing club information and content.
-
-### Key Features
-
-- Public club platform
-- Administration dashboard
-- Authentication and authorization
-- Content management
-- Relational database
-- Row Level Security
-- Structured TypeScript codebase
-- React-based frontend
-- Supabase backend services
-
-### Tech Stack
-
-`React` `TypeScript` `Vite` `Supabase` `Authentication` `RLS`
-
-<p>
-  <a href="https://github.com/hala-dalloul/IT-Club">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
-  </a>
-</p>
-
----
+| Project | Description | Tech Stack | Repository |
+|---|---|---|---|
+| **Recipe Book** | Social recipe-sharing Android app for discovering, creating, and managing recipes. | `Java` `Android` `Firebase` `Cloudinary` | [View Repo](https://github.com/hala-dalloul/Recipe-Book-App) |
+| **New Salon** | Android salon booking app built with a structured Jetpack Compose architecture. | `Kotlin` `Jetpack Compose` `MVVM` `StateFlow` | [View Repo](https://github.com/hala-dalloul/New-Salon) |
+| **IT Club Platform** | Full-stack IT Club platform with a public website and administration dashboard. | `React` `TypeScript` `Vite` `Supabase` | [View Repo](https://github.com/hala-dalloul/IT-Club) |
+| **C++ Problem Solving** | Competitive programming practice focused on algorithms, data structures, and problem solving. | `C++` `Algorithms` `Data Structures` | [View Repo](https://github.com/hala-dalloul/Cpp-Problem-solving) |
 
 # Problem Solving & Competitive Programming
 
