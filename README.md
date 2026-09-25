@@ -39,6 +39,7 @@ I learn primarily by building real projects, experimenting with new technologies
 ## Technical Focus
 
 - Android Application Development
+- Flutter & Cross-Platform Mobile Development
 - Java & Kotlin
 - Jetpack Compose & XML
 - Firebase & Cloud Firestore
@@ -58,19 +59,19 @@ I learn primarily by building real projects, experimenting with new technologies
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle" alt="Mobile Development"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio,gradle" alt="Mobile Development"/>
 </p>
 
 ### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,sqlite" alt="Backend and Data"/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite" alt="Backend and Data"/>
 </p>
 
 ### Development & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux" alt="Development and DevOps"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="Development and DevOps"/>
 </p>
 
 ### Problem Solving
@@ -155,7 +156,7 @@ A full-stack web platform for an IT Club, combining a public-facing website with
 - Administration dashboard
 - Authentication and authorization
 - Content management
-- PostgreSQL database
+- Relational database
 - Row Level Security
 - Structured TypeScript codebase
 - React-based frontend
@@ -163,7 +164,7 @@ A full-stack web platform for an IT Club, combining a public-facing website with
 
 ### Tech Stack
 
-`React` `TypeScript` `Vite` `Supabase` `PostgreSQL` `Authentication` `RLS`
+`React` `TypeScript` `Vite` `Supabase` `Authentication` `RLS`
 
 <p>
   <a href="https://github.com/hala-dalloul/IT-Club">
